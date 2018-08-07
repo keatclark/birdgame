@@ -1,0 +1,14 @@
+///scr_init_gun_database();
+global.data_gun_name=ds_list_create();
+global.data_gun_image=ds_list_create();
+global.data_gun_frames=ds_list_create();
+global.data_gun_object=ds_list_create();
+global.data_gun_length=ds_list_create();
+global.data_gun_speed=ds_list_create();
+global.data_gun_rate=ds_list_create();
+global.data_gun_reload=ds_list_create();
+global.data_gun_max=ds_list_create();
+global.data_gun_clip=ds_list_create();
+global.data_gun_spread=ds_list_create();
+global.data_gun_knock=ds_list_create();
+global.data_gun_damage=ds_list_create();
